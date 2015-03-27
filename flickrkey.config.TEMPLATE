@@ -1,0 +1,3 @@
+module.exports = {
+  flickrkey: '_YOUR_KEY_HERE_'
+};
